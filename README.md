@@ -18,7 +18,7 @@ This is a minimal image classification system that helps automate refund item id
 2. Create a virtual environment
     ```bash
     # Linux:
-    python -m venv venv source venv/bin/activate
+    source venv/bin/activate
     # Windows:
     venv\Scripts\activate
     ```
