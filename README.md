@@ -15,7 +15,7 @@ This is a minimal image classification system that helps automate refund item id
 ## Setting up the project
 
 1. Clone the repository
-2. Install Python (3.10)
+2. Install Python (3.11)
    - Crucial to download this specific version to work with tensorflow properly
 3. Create a virtual environment
     ```bash
